@@ -19,5 +19,5 @@ bot.on('message' , function (message) {
 
 bot.login('NDI3ODMyNjQ0NDc5MzUyODU0.DZqRuQ.p-zgik9ktWyF2A2Mc4gJzJFgdK8')
 
-//https://discordapp.com/oauth2/authorize?client_id=422689053184622593&scope=bot&permissions=3148800
+//https://discordapp.com/oauth2/authorize?client_id=427832644479352854&scope=bot&permissions=3148800
 
