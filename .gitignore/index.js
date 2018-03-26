@@ -17,7 +17,7 @@ bot.on('message' , function (message) {
 
 })
 
-bot.login('NDIyNjg5MDUzMTg0NjIyNTkz.DZpYWQ.Di7HoL4Hq2-dXufZYSO3RFjAH0g')
+bot.login('NDI3NzY4ODg2MzMxNDQxMTY1.DZqRXA.avbj_SwPIWBtlvf8lP4jF7N39UI')
 
 //https://discordapp.com/oauth2/authorize?client_id=422689053184622593&scope=bot&permissions=3148800
 
