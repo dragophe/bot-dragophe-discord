@@ -1,0 +1,19 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "FFMPEG": "0.0.4",
+    "discord.js": "^11.3.2",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "node-opus": "^0.2.7",
+    "youtube-audio-stream": "^0.2.0",
+    "ytdl-core": "^0.20.2"
+  }
+}
