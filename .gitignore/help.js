@@ -21,14 +21,18 @@ module.exports = class help extends command {
             console.log('hlp')
         }
         if (message == '!helpMeme'){
-            message.reply("voici la liste des meme : \n -!gay : gayyy \n -!damn : Daammmn \n -!duel : yugiho duel \n -!chocapic : ET PAF CA FAIT DES CHOCAPIC \n -!shine : SHINNEEEE \n -notgay : I'm not gayy!")
+            message.reply("voici la liste des meme : \n -★bruh : BRUUUH \n -★congroo : El Psy Congrooo \n -★facepalm : facepalm général dans l'assistance \n  -★haa : Quand un mouton cri comme un humain, ça fait WHAAAAAAAA \n -★moche : Ti es mosh \n -★nani : Omae wa mo shinderu... Nani?! \n -★nogod : Oh God Please No \n -★notgay : I'm not gay it was a joke guys c'mon \n -★philipe : PHILIPPE JE SAIS OU TU TE CACHES VIENS ICI QUE JTE BUTTE \n -★pigeon : Alors, c'est un pigeon qui rentre dans un bar \n  ")
             console.log('hlpmm')
         }
 
         if (message == '!disconnect'){
-            connection.disconnect()
+           /* disconnect(){
+                this.emit('closing')
+                this.sendVoiceStateUpdate({channel_id: null,})
+            }
+           
             message.reply("deconnection")
-            console.log('deco')
+            console.log('deco')*/
         }
 
     }
